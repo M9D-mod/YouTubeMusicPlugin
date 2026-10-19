@@ -1,0 +1,13 @@
+# Host a ZIP resource pack over HTTPS.
+# The pack must include assets/<namespace>/sounds.json and matching OGG files.
+resource-pack:
+  url: "https://example.com/music-pack.zip"
+  sha1: ""
+
+playback:
+  default-volume: 1.0
+  max-volume: 1.0
+  max-youtube-url-length: 300
+
+# Sound event keys must exist in the installed resource pack.
+# Example: servermusic:sample
