@@ -1,0 +1,9 @@
+
+resource-pack:
+  url: ""
+  sha1: ""
+
+music:
+  default-volume: 1.0
+  default-pitch: 1.0
+
