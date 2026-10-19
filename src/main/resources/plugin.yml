@@ -1,0 +1,10 @@
+
+name: YouTubeMusic
+version: 0.1.0
+main: dev.example.youtubemusic.YouTubeMusicPlugin
+api-version: '1.21'
+commands:
+  music:
+    description: Play sounds from the server resource pack
+    usage: /music <help|play|stop>
+    
